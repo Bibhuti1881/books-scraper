@@ -28,4 +28,4 @@ python Scrapy.py
 ## 👤 Author
 Bibhuti Adhikari — [bibhutiportfolio.vercel.app](https://bibhutiportfolio.vercel.app)
 
-[![Fiverr](https://img.shields.io/badge/Hire_me_on-Fiverr-1DBF73?style=for-the-badge)](https://fiverr.com/bibhuti)
+[![Fiverr](https://img.shields.io/badge/Hire_me_on-Fiverr-1DBF73?style=for-the-badge)](fiverr.com/bibhuti981)
